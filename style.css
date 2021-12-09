@@ -1,0 +1,36 @@
+body {
+    background-color: #283149;
+    text-align: center;
+}
+
+.title {
+    color: #FFF;
+    font-family: "Arvo", cursive;
+    font-size: 5rem;
+    text-shadow: 3px 0 #da0463;
+}
+
+.set {
+    margin: 10% auto;
+}
+
+.drum {
+    border: 10px solid #404B69;
+    border-radius: 15px;
+    color: #DA0463;
+    display: inline-block;
+    font-family: 'Arvo', cursive;
+    font-size: 4rem;
+    font-weight: 900;
+    line-height: 2;
+    margin: 0 10px;
+    height: 150px;
+    width: 150px;
+    outline: none;
+    text-shadow: 3px 0 #DBEDF3;
+}
+
+footer {
+    color: #FFF;
+    font-family: sans-serif;
+}
