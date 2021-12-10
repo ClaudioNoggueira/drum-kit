@@ -3,6 +3,11 @@ body {
     text-align: center;
 }
 
+footer {
+    color: #FFF;
+    font-family: sans-serif;
+}
+
 .title {
     color: #FFF;
     font-family: "Arvo", cursive;
@@ -30,7 +35,32 @@ body {
     text-shadow: 3px 0 #DBEDF3;
 }
 
-footer {
-    color: #FFF;
-    font-family: sans-serif;
+.w {
+    background-image: url('images/crash.png');
+
+}
+
+.a {
+    background-image: url('images/tom1.png');
+}
+
+.s {
+    background-image: url('images/tom2.png');
+}
+
+.d {
+    background-image: url('images/snare.png');
+}
+
+.j {
+    background-image: url('images/tom3.png');
+}
+
+.k {
+    background-image: url('images/tom4.png');
+}
+
+.l {
+
+    background-image: url('images/kick.png');
 }
